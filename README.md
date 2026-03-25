@@ -29,15 +29,15 @@ This project focuses on analyzing e-commerce sales data to uncover meaningful in
 ```
 Ecommerce-Data-Analysis/
 │── dataset/
-│   ├── customers.csv
-│   ├── products.csv
-│   └── orders.csv
+│   ├── customers_clean.csv
+│   ├── products_clean.csv
+│   └── orders_clean.csv
 │
 │── sql/
-│   └── queries.sql
+│   └── ecommerce_queries.sql
 │
 │── dashboard/
-│   └── dashboard.pbix
+│   └── ecommerce_dashboard.pbix
 │
 │── images/
 │   └── dashboard.png
@@ -111,9 +111,9 @@ This project demonstrates how data can be leveraged to:
 ## 📌 How to Use
 
 1. Import datasets into MySQL
-2. Run SQL queries from `queries.sql`
+2. Run SQL queries from `ecommerce_queries.sql`
 3. Load data into Power BI
-4. Open `dashboard.pbix` to view the dashboard
+4. Open `ecommerce_dashboard.pbix` to view the dashboard
 
 ---
 
