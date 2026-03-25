@@ -122,6 +122,3 @@ This project demonstrates how data can be leveraged to:
 **Abhijith Sunny**
 abhijithsunny175@gamil.com
 
-
-
-Give it a ⭐ on GitHub!
